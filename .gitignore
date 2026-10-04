@@ -16,7 +16,7 @@ data/
 .env.*
 !.env.example
 
-# IDE
+# IDE / Editor
 .idea/
 .vscode/
 *.iml
